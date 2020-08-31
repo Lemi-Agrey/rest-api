@@ -1,0 +1,13 @@
+nav{
+    background-color: blue;
+    height: 50px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin: auto;
+    padding: 5px;
+}

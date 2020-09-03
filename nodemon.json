@@ -1,0 +1,5 @@
+{
+    "env" : {
+        "MONGO_ALT_PSW" : "alemin"
+    }
+}

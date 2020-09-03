@@ -1,0 +1,19 @@
+{
+  "name": "stores_restful_api",
+  "version": "1.0.0",
+  "description": "This is an API for stores with several end points",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Lemi Agrey Oliver",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
